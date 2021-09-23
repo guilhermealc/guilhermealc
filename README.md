@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics.
 - 🌱 I’m currently learning data engineering.
 - 💞️ I’m looking to collaborate on DBT, Python Notebooks and Data Viz.
-- 📫 [Contact me on LinkedIn] (https://www.linkedin.com/in/guilhermealca/)
+- 📫 [Contact me on LinkedIn](https://www.linkedin.com/in/guilhermealca/)
 
 <!---
 guilhermealc/guilhermealc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
